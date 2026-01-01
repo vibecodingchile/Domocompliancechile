@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DomoCompliance | Compliance Tecnológico Chile & Brasil</title>
+  <meta name="description" content="DomoCompliance es una plataforma de compliance tecnológico para IA y software en Chile y Brasil. Evalúa riesgo legal, constitucional y de datos." />
+  <style>
+    body { margin:0; font-family: Arial, Helvetica, sans-serif; background:#0b0f1a; color:#eaeaf0; }
+    header { padding:4rem 2rem; text-align:center; background:linear-gradient(135deg,#8b0000,#1a1a2e); }
+    header h1 { font-size:3rem; margin-bottom:1rem; }
+    header p { font-size:1.2rem; max-width:720px; margin:0 auto; }
+    section { padding:4rem 2rem; max-width:1100px; margin:0 auto; }
+    h2 { color:#ff4d4d; margin-bottom:1rem; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:2rem; }
+    .card { background:#151a2d; padding:2rem; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,.3); }
+    footer { padding:2rem; text-align:center; background:#090c14; color:#aaa; }
+    .cta { display:inline-block; margin-top:2rem; padding:1rem 2rem; background:#ff4d4d; color:#fff; text-decoration:none; border-radius:8px; }
+  </style>
+</head>
+<body><header>
+  <h1>DomoCompliance</h1>
+  <p>Plataforma de compliance tecnológico para Inteligencia Artificial y software automatizado en Chile y Brasil. Riesgo legal real, evaluado hoy.</p>
+  <a href="#contacto" class="cta">Contacto</a>
+</header><section>
+  <h2>¿Qué es DomoCompliance?</h2>
+  <p>DomoCompliance es una solución LegalTech diseñada para evaluar, documentar y mitigar riesgos legales derivados del uso de Inteligencia Artificial, algoritmos y software automatizado bajo el marco regulatorio vigente en América Latina.</p>
+</section><section>
+  <h2>Qué Analiza</h2>
+  <div class="grid">
+    <div class="card">Uso de datos personales y cumplimiento normativo</div>
+    <div class="card">Decisiones automatizadas y explicabilidad</div>
+    <div class="card">Riesgo constitucional y derechos fundamentales</div>
+    <div class="card">Riesgo al consumidor y responsabilidad empresarial</div>
+  </div>
+</section><section>
+  <h2>Marco Legal</h2>
+  <div class="grid">
+    <div class="card"><strong>Chile</strong><br/>Constitución Art.19 N°4 · Ley 19.628 · Ley 19.496 · Ley 20.393 · Ley 21.459</div>
+    <div class="card"><strong>Brasil</strong><br/>LGPD · Constituição Federal · Código de Defesa do Consumidor · Marco Civil da Internet</div>
+  </div>
+</section><section>
+  <h2>Cómo Funciona</h2>
+  <div class="grid">
+    <div class="card">Escaneo local (CLI / Docker)</div>
+    <div class="card">Evaluación de riesgo jurídico</div>
+    <div class="card">Generación de informes legales y AI-BOM</div>
+    <div class="card">Evidencia defendible ante autoridades</div>
+  </div>
+</section><section id="contacto">
+  <h2>Contacto</h2>
+  <p>Para demostraciones, licencias empresariales o sector público:</p>
+  <p><strong>Email:</strong> contacto@domocompliance.com</p>
+</section><footer>
+  <p>© 2026 DomoCompliance. Compliance tecnológico para LATAM.</p>
+</footer></body>
+</html>
